@@ -16,4 +16,4 @@ Networkx
 5. Evaluate different immunizations strategies based on centrality measures, random immunization and pick-a-neighbour strategy.
 6. Evaluate what is a good predictor to find important disease spreading links.
 
-Find task implementations in the project.ipynb notebook, task descriptions in project_descriptions.pdf and the observed findings in report.pdf
+Find task implementations in the project.ipynb notebook, task descriptions in project_descriptions.pdf and the observed findings in Final_Project_CN.pdf
